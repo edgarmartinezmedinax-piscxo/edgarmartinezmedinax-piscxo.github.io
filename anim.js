@@ -3,7 +3,7 @@ var audio = document.querySelector("audio");
 var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
-    const lyricsData = [
+    const lyricsData
       { text: "Alguien me ha dicho que la soledad", time: 22 },
       { text: "Se esconde tras tus ojos", time: 27 },
       { text: "Y que tu blusa atora sentimientos", time: 28},
